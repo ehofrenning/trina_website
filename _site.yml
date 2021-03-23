@@ -1,0 +1,12 @@
+name: "website"
+title: "Trina Hofrenning"
+description: |
+  My R Project Website
+output_dir: "_site"
+navbar:
+  right:
+    - text: "About"
+      href: index.html
+    - text: "blog"
+      href: blog.html
+output: distill::distill_article

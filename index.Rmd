@@ -1,0 +1,14 @@
+---
+title: "Trina Hofrenning"
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](headshot_thda.JPG)
+
+## About Me: My name is Trina Hofrenning and I am a student at Macalester College. I am studying Economics & Applied Mathematics and Statistics, and also have minors in dance and classics. This website will serve as a blog/place to share interesting R tidbits and projects that I am working on. Enjoy!
